@@ -1,4 +1,4 @@
-package com.torro.leetcode;
+package cn.torro.leetcode;
 
 /**
  * @author xq
