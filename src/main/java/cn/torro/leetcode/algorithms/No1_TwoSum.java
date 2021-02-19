@@ -7,7 +7,6 @@ import java.util.Map;
  * https://leetcode.com/problems/two-sum/
  *
  * @author xq
- * @create 2021-02-05 18:23
  * <p>
  * Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
  * <p>
